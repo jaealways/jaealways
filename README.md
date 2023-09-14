@@ -1,6 +1,6 @@
-# LEE JAE-HYEONG(이재형)
+#### *LEE JAE-HYEONG(이재형)*
 </br>
-To be a Data Scientist/ Quant Developer </br>
+To be a Data Scientist, Quant Developer </br>
 
 Interested in High Frequency Trading, Natural Language Processing</br>
 
