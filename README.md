@@ -28,6 +28,9 @@ Interested in High Frequency Trading, Natural Language Processing</br>
 [Linear Interpolate Optimization](https://github.com/jaealways/linear_interpolate_opt)</br>
 [Components of Term Structure](https://github.com/jaealways/components_on_term_structure)</br></br>
 
+##### Finance Simulation
+[els_monte_carlo](https://github.com/jaealways/els_price_monte_carlo)</br></br>
+
 ##### Metrics of Topic Modeling</br>
 
 
