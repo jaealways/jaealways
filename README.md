@@ -19,23 +19,25 @@ Interested in High Frequency Trading, Natural Language Processing</br>
 </br></br>
 #### Portfolio
 ##### Musical Asset Analysis</br>
-[Webpage](https://musicowlabs.com)</br>
-[Engine](https://github.com/jaealways/mint)</br>
-[Article](https://jaealways.tistory.com/category/PROJECT/MuTech)</br>
-[Fear&Greed Index](https://github.com/jaealways/fear-and-greed)</br></br>
+[Webpage](https://musicowlabs.com)</br></br>
+[Engine](https://github.com/jaealways/mint)</br></br>
+[Article](https://jaealways.tistory.com/category/PROJECT/MuTech)</br></br>
 
-##### Interest Rate Term Structure Analysis</br>
-[Linear Interpolate Optimization](https://github.com/jaealways/linear_interpolate_opt)</br>
+
+##### Topic Modeling</br>
+[Topic Modeling embedded with Korean PLM](https://github.com/jaealways/topic_modeling_Korean_PLM)</br></br>
+[Topic Coherence Metric](https://github.com/jaealways/coherence_topic_model)</br></br></br>
+
+##### Data Augmentation</br>
+[NLP Data Augmentation with BART](https://github.com/jaealways/data_augmentation_BART)</br></br></br>
+
+##### Finance</br>
+[Linear Interpolate Optimization](https://github.com/jaealways/linear_interpolate_opt)</br></br>
 [Components of Term Structure](https://github.com/jaealways/components_on_term_structure)</br></br>
-
-##### Finance Simulation
 [els_monte_carlo](https://github.com/jaealways/els_price_monte_carlo)</br></br>
-
-##### Metrics of Topic Modeling</br>
-
-
-##### Daily Trading Strategy
+[Fear&Greed Index](https://github.com/jaealways/fear-and-greed)</br></br></br>
 
 
-##### High-Frequency Trading
+##### Trading Strategy
+
 
