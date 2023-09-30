@@ -2,7 +2,7 @@
 </br>
 To be a Data Scientist, Quant Developer </br>
 
-Interested in High Frequency Trading, Natural Language Processing</br>
+Interested in Natural Language Processing, Trading Strategy</br>
 
 ## About Me
 [<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Python&logoColor=white"/>](https://jaealways.tistory.com/)
