@@ -4,7 +4,7 @@ To be a Data Scientist, Quant Developer </br>
 
 Interested in Multi-modal Learning, ML Finance</br>
 
-- NAVER BOOSTCAMP AI TECH 6TH NLP TRACK TRAINEE (2023.11~)
+- NAVER BOOSTCAMP AI TECH 6TH NLP TRACK (2023.11~)
 
 ## About Me
 [<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Python&logoColor=white"/>](https://jaealways.tistory.com/)
